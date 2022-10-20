@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="LoginBtnSkin" states="up,down,disabled" width="566" height="80"
+        currentState="up" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" height.down="80">
+	<e:Image source.up="loginBtn1_png" source.down="loginBtn2_png" source.disabled="loginBtn3_png" source="loginBtn1_png" left="0" right="0" scale9Grid="87,9,387,60" scale9Grid.up="81,9,404,60" scale9Grid.down="82,9,400,58" verticalCenter="0" verticalCenter.down="0"/>
+	<e:Label text="登录" size="40" fontFamily="微软雅黑" textColor="0xffffff" verticalCenter="0" verticalCenter.disabled="0" verticalCenter.down="0" horizontalCenter="0"/>
+</e:Skin>

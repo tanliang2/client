@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="RoleInfoSkin" width="533" height="187" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="loadingeff_bg" scale9Grid="29,27,94,94" height="187" y="0" width="533" x="0"/>
+	<e:Label id="_name" x="130" y="22" width="376" height="35" textColor="0x774D33" fontFamily="微软雅黑" anchorOffsetX="0" bold="true"/>
+	<e:Label id="_id" y="62" textColor="0x774D33" fontFamily="微软雅黑" width="375" height="35" x="130" size="25" verticalAlign="middle" anchorOffsetX="0" bold="true"/>
+	<e:Label id="_ip" y="98" textColor="0x774D33" fontFamily="微软雅黑" x="130" width="371" height="35" size="25" bold="true" verticalAlign="middle" anchorOffsetX="0"/>
+	<e:Label id="_rate" y="134" textColor="0x774D33" height="35" verticalAlign="middle" fontFamily="微软雅黑" x="130" bold="true" width="383" size="25" anchorOffsetX="0"/>
+</e:Skin>
